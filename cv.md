@@ -1,9 +1,11 @@
 # Zharov Dmitry
 ### Junior Frontend Developer
 ## Contact:
+- Location: Moscow, Russia
 - Phone:+7(917) 572 84 94
 - E-mail:<streetracer90rus@gmail.com>
 - GitHub: [verbatim54](https://github.com/Verbatim54?tab=repositories)
+- Discord: Dmitry Zharov
 ## Education:
 - 15.08.2019 [Программирование на Python](https://stepik.org/course/67/promo)
 - 16.09.2019 [Python: основы и применение](https://stepik.org/course/512/promo)
