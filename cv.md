@@ -21,11 +21,11 @@ I have excellent team worker and ready for new directions of development.<br> I 
 - Python
 - Photoshop
 ## Code Examples
-''' javascript
+```javascript
 function multiply(a, b){
   result = a * b;
   return result;
 }
-'''
+```
 
 
